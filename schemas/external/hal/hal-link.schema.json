@@ -20,7 +20,8 @@
         },
         "href": {
           "description": "> If the value is a URI Template then the Link Object SHOULD have a `templated` attribute whose value is `true`",
-          "type": "string"
+          "type": "string",
+		  "format": "uri"
         },
         "type": {
           "type": "string",
