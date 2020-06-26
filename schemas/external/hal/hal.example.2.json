@@ -1,21 +1,21 @@
 {
   "_links": {
     "self": {
-      "href": "/orders/523"
+      "href": "https://orders/523"
     },
     "warehouses": [
       {
-        "href": "/warehouse/56"
+        "href": "https://warehouse/56"
       },
       {
-        "href": "/warehouse/56"
+        "href": "https://warehouse/56"
       },
       {
-        "href": "/warehouse/56"
+        "href": "https://warehouse/56"
       }
     ],
     "invoice": {
-      "href": "/invoices/873"
+      "href": "https://invoices/873"
     }
   },
   "currency": "USD",
